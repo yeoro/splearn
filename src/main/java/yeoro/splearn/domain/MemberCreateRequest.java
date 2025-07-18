@@ -1,4 +1,4 @@
 package yeoro.splearn.domain;
 
-public record MemberCreateRequest(String  email, String nickname, String password) {
+public record MemberCreateRequest(String email, String nickname, String password) {
 }
